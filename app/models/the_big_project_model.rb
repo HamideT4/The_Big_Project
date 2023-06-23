@@ -1,0 +1,2 @@
+class TheBigProjectModel < ApplicationRecord
+end
